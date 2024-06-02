@@ -12,8 +12,9 @@ Sprint 2
 * Pendaftaran anggota baru: Fitur ini mencakup formulir pendaftaran dengan input dasar seperti nama, tanggal lahir, alamat, email, no.Hp dan foto untuk pendaftar.
 
 ## Keterangan Folder
-> app :
->
+> app : berisi tentang kode dan isi dari web yang dibuat
+> designer : berisi tentang kode tata letak dan desain dari web
+> dokumentasi : 
 
 
 ### Requirements
