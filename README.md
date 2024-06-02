@@ -9,9 +9,10 @@ Sprint 1
 * Portofolio atau Proyek Terkini: Daftar proyek-proyek terkini atau portofolio karya tim, lengkap dengan deskripsi, gambar, atau video sebagai contoh hasil kerja mereka.
   
 Sprint 2
-* ......
+* Pendaftaran anggota baru: Fitur ini mencakup formulir pendaftaran dengan input dasar seperti nama, tanggal lahir, alamat, email, no.Hp dan foto untuk pendaftar.
 
 ## Keterangan Folder
+> app :
 >
 
 
